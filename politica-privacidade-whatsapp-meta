@@ -1,0 +1,66 @@
+POLÍTICA DE PRIVACIDADE — ASYSTEM
+Última atualização: Junho de 2026
+
+A ASystem tem o compromisso de proteger a sua privacidade. Esta Política de Privacidade descreve como coletamos, usamos, processamos e compartilhamos seus dados quando você utiliza nossos serviços e aplicativos integrados às plataformas da Meta Platforms, Inc. (como WhatsApp, Facebook e Instagram).
+
+1. Informações que Coletamos via API da Meta
+Ao utilizar nossa integração com os serviços da Meta, podemos coletar e processar as seguintes informações:
+
+Dados de Perfil Público: Nome, foto de perfil e ID de usuário da Meta (caso utilize autenticação via Facebook).
+
+Dados de Comunicação (WhatsApp/Messenger): Conteúdo das mensagens enviadas ao nosso bot/sistema, número de telefone, metadados da mensagem (data e hora) e status de entrega.
+
+Dados Técnicos: Endereço IP, tipo de dispositivo, sistema operacional e identificadores únicos de dispositivos.
+
+2. Como Utilizamos Seus Dados
+Utilizamos as informações coletadas estritamente para as seguintes finalidades:
+
+Prestação de Serviços: Ativar funcionalidades de agendamento, atendimento automatizado e suporte ao cliente.
+
+Melhoria do Sistema: Otimizar o fluxo de respostas da API e corrigir bugs operacionais.
+
+Segurança: Prevenir fraudes, acessos não autorizados e garantir a integridade do nosso ecossistema.
+
+Cumprimento Legal: Atender a obrigações legais e regulatórias associadas ao tratamento de dados no Brasil.
+
+3. Compartilhamento de Dados com Terceiros
+A ASystem não vende nem aluga seus dados pessoais para terceiros. O compartilhamento ocorre apenas nas seguintes hipóteses:
+
+Com a Meta Platforms, Inc.: Para processar as requisições, enviar mensagens e manter a infraestrutura técnica integrada rodando adequadamente.
+
+Provedores de Infraestrutura: Serviços de hospedagem em nuvem e banco de dados que seguem padrões rigorosos de segurança da informação.
+
+Exigência Legal: Quando solicitado por autoridades judiciais ou administrativas competentes, nos termos da LGPD.
+
+4. Retenção e Exclusão de Dados
+Mantemos os seus dados armazenados apenas pelo tempo necessário para cumprir as finalidades descritas nesta política ou para cumprir requisitos legais.
+
+💡 Direito de Exclusão: Você pode solicitar a exclusão dos seus dados ou a revogação do acesso do nosso aplicativo à sua conta Meta a qualquer momento. Para fazer isso, basta enviar um e-mail para o suporte informado no item 7.
+
+5. Segurança dos Dados
+Implementamos medidas técnicas e organizacionais avançadas para proteger seus dados contra acessos não autorizados, perda, alteração ou qualquer forma de tratamento inadequado, incluindo:
+
+Criptografia de dados em trânsito e em repouso.
+
+Controle de acesso estrito aos ambientes de banco de dados.
+
+Monitoramento contínuo contra vulnerabilidades na API.
+
+6. Seus Direitos (LGPD)
+Como titular dos dados, você possui os seguintes direitos garantidos pela Lei Geral de Proteção de Dados:
+
+Confirmar a existência do tratamento de dados.
+
+Acessar os seus dados guardados em nosso sistema.
+
+Corrigir dados incompletos, inexatos ou desatualizados.
+
+Solicitar a anonimização, bloqueio ou eliminação de dados desnecessários.
+
+Revogar o consentimento previamente fornecido.
+
+7. Contato e Encarregado de Dados (DPO)
+Se você tiver dúvidas sobre esta Política de Privacidade ou quiser exercer seus direitos de exclusão e acesso, entre em contato conosco:
+
+E-mail de Suporte: allanemp@gmail.com
+Responsável pelo Tratamento de Dados: Equipe de Privacidade ASystem.
