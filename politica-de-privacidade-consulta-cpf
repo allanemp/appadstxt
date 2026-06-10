@@ -1,0 +1,67 @@
+Política de Privacidade - Consulta CPF
+
+Última atualização: 10 de junho de 2026
+
+Esta Política de Privacidade descreve como o aplicativo Consulta CPF ("aplicativo") trata as informações dos usuários. Ao utilizar o aplicativo, você concorda com as práticas descritas neste documento. Valorizamos a privacidade e a segurança dos dados de nossos usuários.
+
+1. Descrição do Aplicativo
+
+1.1. O Consulta CPF é um aplicativo que facilita o acesso ao serviço oficial e gratuito de Consulta de Situação Cadastral do CPF disponibilizado pela Secretaria da Receita Federal do Brasil, por meio do endereço https://servicos.receita.fazenda.gov.br.
+
+1.2. O aplicativo funciona como uma interface (navegador integrado) para o site oficial da Receita Federal. A consulta do CPF é realizada diretamente nos servidores da Receita Federal, e não em nossos servidores.
+
+2. Informações Coletadas
+
+2.1. Dados de consulta de CPF: O número de CPF e a data de nascimento digitados são enviados diretamente ao site oficial da Receita Federal para realização da consulta. O aplicativo não coleta, não armazena e não transmite esses dados para os desenvolvedores ou para terceiros.
+
+2.2. Arquivos salvos no dispositivo: O usuário pode optar por salvar o comprovante da consulta (por exemplo, em PDF) em seu próprio dispositivo. Esses arquivos são gravados localmente, na pasta escolhida pelo usuário, e permanecem exclusivamente no dispositivo. O aplicativo não envia esses arquivos para nenhum servidor.
+
+2.3. Informações de uso e dispositivo: Para exibição de anúncios e análise de desempenho, podem ser coletadas informações técnicas, como tipo de dispositivo, sistema operacional, identificadores de publicidade e dados de uso, conforme descrito na seção sobre publicidade.
+
+3. Permissões do Aplicativo
+
+3.1. Armazenamento (acesso à pasta selecionada): Utilizado exclusivamente para que o usuário possa salvar o comprovante de consulta no local de sua escolha.
+
+3.2. Identificador de publicidade (AD_ID): Utilizado pela plataforma de anúncios para exibição de publicidade.
+
+4. Publicidade
+
+4.1. O aplicativo exibe anúncios por meio do Google AdMob, serviço de publicidade do Google.
+
+4.2. O aplicativo está configurado para solicitar apenas anúncios não personalizados (requestNonPersonalizedAdsOnly). Ainda assim, o Google pode coletar e utilizar dados de dispositivo e de identificadores de publicidade para a entrega e medição dos anúncios.
+
+4.3. As práticas de privacidade do Google podem ser consultadas em: https://policies.google.com/privacy
+
+5. Uso das Informações
+
+5.1. As informações técnicas eventualmente coletadas são utilizadas para viabilizar a exibição de anúncios, manter o funcionamento do aplicativo e melhorar a experiência de uso.
+
+5.2. O aplicativo não realiza venda de dados pessoais dos usuários.
+
+6. Compartilhamento de Informações
+
+6.1. Os dados de consulta (CPF e data de nascimento) são compartilhados apenas com o site oficial da Receita Federal do Brasil, para fins exclusivos de realização da consulta solicitada pelo usuário.
+
+6.2. Dados técnicos e identificadores de publicidade podem ser compartilhados com o Google AdMob para fins de publicidade, conforme descrito na seção 4.
+
+7. Segurança
+
+7.1. Adotamos medidas razoáveis para proteger as informações tratadas pelo aplicativo. Por ser uma interface para o serviço oficial, a segurança da consulta também depende da infraestrutura da Receita Federal.
+
+8. Privacidade de Crianças
+
+8.1. O aplicativo não é direcionado a menores de idade e não coleta intencionalmente dados pessoais de crianças.
+
+9. Direitos do Usuário (LGPD)
+
+9.1. Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD), o usuário pode solicitar informações sobre o tratamento de seus dados. Como o aplicativo não armazena dados pessoais de consulta, as solicitações relativas a anúncios devem observar também as políticas do Google.
+
+10. Alterações nesta Política
+
+10.1. Esta Política de Privacidade pode ser atualizada periodicamente. Recomendamos a revisão regular deste documento. Alterações entram em vigor a partir da data de publicação.
+
+11. Contato
+
+11.1. Em caso de dúvidas sobre esta Política de Privacidade, entre em contato pelo e-mail: allanemp@gmail.com
+
+Desenvolvedor: allanemp
